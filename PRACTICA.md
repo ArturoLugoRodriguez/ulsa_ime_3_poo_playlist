@@ -87,12 +87,21 @@ En esta práctica las clases ya están definidas. Tu trabajo es dibujarlas y com
 | `Podcast` | Agrega anfitrión y número de episodio | Es una `Pista` (herencia) |
 | `Playlist` | Agrupar pistas y calcular la duración total | Usa canciones y podcasts existentes (agregación) |
 
-Dibuja el diagrama de clases con atributos, métodos y las tres relaciones. Puedes usar la herramienta que prefieras o hacerlo a mano y fotografiarlo. Guárdalo como `diseno_solucion.png` en la raíz del repositorio.
+Dibuja el diagrama de clases con atributos, métodos y las tres relaciones. Se sugiere usar **draw.io** (https://app.diagrams.net), que es gratuito, funciona en el navegador sin crear cuenta y también tiene versión de escritorio.
+
+1. Crea un diagrama en blanco y activa la biblioteca de figuras **UML** en el panel izquierdo (*Más figuras > UML*).
+2. Usa la figura **Clase** para cada clase, con sus tres secciones: nombre, atributos y métodos.
+3. Conecta las clases con las flechas de herencia, composición y agregación.
+4. Exporta con *Archivo > Exportar como > PNG* y guarda el archivo como `diseno_solucion.png` en la raíz del repositorio.
+
+Si prefieres otra herramienta o hacerlo a mano y fotografiarlo, también es válido, siempre que el archivo final tenga ese nombre y sea legible.
 
 - **2.1** Verifica que la imagen se vea en el README.
 - **2.2** Justifica en una línea cada relación del diagrama.
 
 > **Nota técnica.** En UML la herencia se dibuja con una flecha de triángulo vacío que apunta a la clase base. La composición lleva un rombo relleno del lado del contenedor y la agregación un rombo vacío.
+
+> **Nota técnica.** Guarda también el archivo editable de draw.io (`.drawio`) en tu computadora. Si tu diseño cambia durante la implementación, podrás actualizar el diagrama y volver a exportarlo en lugar de dibujarlo de nuevo.
 
 > **Nota técnica.** Diseñar antes de programar ahorra trabajo: corregir un diagrama toma minutos, corregir código ya escrito toma mucho más.
 
