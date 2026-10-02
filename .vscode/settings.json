@@ -15,8 +15,8 @@
   "editor.parameterHints.enabled": false,
   "editor.inlayHints.enabled": "off",
   "editor.lightbulb.enabled": "off",
-  "editor.autoClosingBrackets": "never",
-  "editor.autoClosingQuotes": "never",
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
 
   // ---- C/C++ extension: no completion, but errors still shown ----
   "C_Cpp.autocomplete": "disabled",
@@ -27,5 +27,7 @@
   "C_Cpp.inlayHints.autoDeclarationTypes.enabled": false,
 
   // Hover stays on so students can read the error messages on the red underlines
-  "editor.hover.enabled": "on"
+  "editor.hover.enabled": "on",
+
+  "chat.disableAIFeatures": true
 }
