@@ -63,8 +63,6 @@ g++ -Wall -Wextra -std=c++17 -Iinclude src/*.cpp -o playlist
 
 > **Nota técnica.** `-Wall -Wextra` activa las advertencias del compilador. Una advertencia casi siempre señala un error que aún no has notado. La meta es compilar con cero advertencias.
 
-> **Nota técnica.** El repositorio incluye la carpeta `.vscode` con una configuración que desactiva el autocompletado y los asistentes de IA. No la modifiques: en esta práctica importa que el código lo escribas y lo entiendas tú.
-
 ## Fase 1. Entender el problema
 
 Antes de escribir código, lee el problema dos veces y llena el README.
