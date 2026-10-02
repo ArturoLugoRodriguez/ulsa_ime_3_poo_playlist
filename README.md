@@ -8,7 +8,7 @@ Llena cada espacio conforme avances en las fases de [PRACTICA.md](PRACTICA.md).
 
 **1.1 El problema con mis propias palabras**
 
----
+[Inserta aquí tu respuesta]
 
 **1.2 Sustantivos (posibles clases) y verbos (posibles métodos)**
 
@@ -85,14 +85,14 @@ Retos opcionales que intenté: _____
 
 **5.1 Enlace a mi fork**
 
----
+[Inserta aquí el enlace a tu fork]
 
 ## Cierre y reflexión
 
 **6.1 ¿Qué aprendiste en esta práctica?**
 
----
+[Inserta aquí tu respuesta]
 
 **6.2 ¿Qué cambiarías de tu proceso la próxima vez?**
 
----
+[Inserta aquí tu respuesta]
