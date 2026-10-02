@@ -12,16 +12,16 @@ Llena cada espacio conforme avances en las fases de [PRACTICA.md](PRACTICA.md).
 
 **1.2 Sustantivos (posibles clases) y verbos (posibles métodos)**
 
-Sustantivos: \_\_\_\_\_
+Sustantivos: _____
 
-Verbos: \_\_\_\_\_
+Verbos: _____
 
 **1.3 Relaciones** (completa con "es un", "tiene un" o "usa un")
 
-*   Una canción \_\_\_\_\_ pista.
-*   Un podcast \_\_\_\_\_ pista.
-*   Una pista \_\_\_\_\_ duración.
-*   Una playlist \_\_\_\_\_ canción.
+*   Una canción _____ pista.
+*   Un podcast _____ pista.
+*   Una pista _____ duración.
+*   Una playlist _____ canción.
 
 ## Fase 2. Diseñar la solución
 
@@ -33,11 +33,11 @@ Verbos: \_\_\_\_\_
 
 | Relación | Tipo | ¿Por qué? |
 | --- | --- | --- |
-| Cancion - Pista | \_\_\_\_\_ | \_\_\_\_\_ |
-| Podcast - Pista | \_\_\_\_\_ | \_\_\_\_\_ |
-| Pista - Duracion | \_\_\_\_\_ | \_\_\_\_\_ |
-| Playlist - Cancion | \_\_\_\_\_ | \_\_\_\_\_ |
-| Playlist - Podcast | \_\_\_\_\_ | \_\_\_\_\_ |
+| Cancion - Pista | _____ | _____ |
+| Podcast - Pista | _____ | _____ |
+| Pista - Duracion | _____ | _____ |
+| Playlist - Cancion | _____ | _____ |
+| Playlist - Podcast | _____ | _____ |
 
 ## Fase 3. Implementar
 
@@ -45,17 +45,17 @@ Verbos: \_\_\_\_\_
 
 | # | Duda | Cómo la resolví | Fuente |
 | --- | --- | --- | --- |
-| 1 | \_\_\_\_\_ | \_\_\_\_\_ | \_\_\_\_\_ |
-| 2 | \_\_\_\_\_ | \_\_\_\_\_ | \_\_\_\_\_ |
-| 3 | \_\_\_\_\_ | \_\_\_\_\_ | \_\_\_\_\_ |
+| 1 | _____ | _____ | _____ |
+| 2 | _____ | _____ | _____ |
+| 3 | _____ | _____ | _____ |
 
 **3.2 Experimentos guiados**
 
-Experimento 1, orden de construcción y destrucción: \_\_\_\_\_
+Experimento 1, orden de construcción y destrucción: _____
 
-Experimento 2, ¿quién es dueño de quién?: \_\_\_\_\_
+Experimento 2, ¿quién es dueño de quién?: _____
 
-Experimento 3, un objeto en dos playlists: \_\_\_\_\_
+Experimento 3, un objeto en dos playlists: _____
 
 ## Fase 4. Probar y mejorar
 
@@ -63,23 +63,23 @@ Experimento 3, un objeto en dos playlists: \_\_\_\_\_
 
 | # | Caso | Resultado esperado | Resultado obtenido | ¿Pasa? |
 | --- | --- | --- | --- | --- |
-| 1 | Duración normal `Duracion(3, 45)` | 3:45 | \_\_\_\_\_ | \_\_\_\_\_ |
-| 2 | Segundos mayores a 59 `Duracion(0, 75)` | 1:15 | \_\_\_\_\_ | \_\_\_\_\_ |
-| 3 | Valores negativos `Duracion(-2, 10)` | 0:00 | \_\_\_\_\_ | \_\_\_\_\_ |
-| 4 | Título vacío | "Sin título" | \_\_\_\_\_ | \_\_\_\_\_ |
-| 5 | Playlist vacía | 0:00 y 0 pistas | \_\_\_\_\_ | \_\_\_\_\_ |
-| 6 | Canción duplicada | La segunda vez devuelve `false` | \_\_\_\_\_ | \_\_\_\_\_ |
-| 7 | Puntero nulo | Devuelve `false` | \_\_\_\_\_ | \_\_\_\_\_ |
-| 8 | Total con 2 canciones y 1 podcast | Suma correcta en m:ss | \_\_\_\_\_ | \_\_\_\_\_ |
+| 1 | Duración normal `Duracion(3, 45)` | 3:45 | _____ | _____ |
+| 2 | Segundos mayores a 59 `Duracion(0, 75)` | 1:15 | _____ | _____ |
+| 3 | Valores negativos `Duracion(-2, 10)` | 0:00 | _____ | _____ |
+| 4 | Título vacío | "Sin título" | _____ | _____ |
+| 5 | Playlist vacía | 0:00 y 0 pistas | _____ | _____ |
+| 6 | Canción duplicada | La segunda vez devuelve `false` | _____ | _____ |
+| 7 | Puntero nulo | Devuelve `false` | _____ | _____ |
+| 8 | Total con 2 canciones y 1 podcast | Suma correcta en m:ss | _____ | _____ |
 
 **4.2 Bitácora de mejoras**
 
 | # | Falla o mejora detectada | Qué cambié | Por qué |
 | --- | --- | --- | --- |
-| 1 | \_\_\_\_\_ | \_\_\_\_\_ | \_\_\_\_\_ |
-| 2 | \_\_\_\_\_ | \_\_\_\_\_ | \_\_\_\_\_ |
+| 1 | _____ | _____ | _____ |
+| 2 | _____ | _____ | _____ |
 
-Retos opcionales que intenté: \_\_\_\_\_
+Retos opcionales que intenté: _____
 
 ## Fase 5. Publicar en GitHub
 
